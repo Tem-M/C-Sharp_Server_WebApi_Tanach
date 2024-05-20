@@ -1,0 +1,120 @@
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\appsettings.json
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\TanachWebApi.exe
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\TanachWebApi.deps.json
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\TanachWebApi.runtimeconfig.json
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\TanachWebApi.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\TanachWebApi.pdb
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\BLL.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\DAL.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Entities.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\BLL.pdb
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Entities.pdb
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\DAL.pdb
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.csproj.AssemblyReference.cache
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.AssemblyInfoInputs.cache
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.AssemblyInfo.cs
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.csproj.CoreCompileInputs.cache
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.TanachWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TanachWebApi.props
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TanachWebApi.props
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TanachWebApi.props
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\scopedcss\bundle\TanachWebApi.styles.css
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.csproj.CopyComplete
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\refint\TanachWebApi.dll
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.pdb
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.genruntimeconfig.cache
+D:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\ref\TanachWebApi.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\appsettings.json
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\TanachWebApi.exe
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\TanachWebApi.deps.json
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\TanachWebApi.runtimeconfig.json
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\TanachWebApi.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\TanachWebApi.pdb
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\BLL.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\DAL.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Entities.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\BLL.pdb
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\Entities.pdb
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\bin\Debug\net7.0\DAL.pdb
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.csproj.AssemblyReference.cache
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.AssemblyInfoInputs.cache
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.AssemblyInfo.cs
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.csproj.CoreCompileInputs.cache
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.TanachWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TanachWebApi.props
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TanachWebApi.props
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TanachWebApi.props
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\scopedcss\bundle\TanachWebApi.styles.css
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.csproj.CopyComplete
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\refint\TanachWebApi.dll
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.pdb
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\TanachWebApi.genruntimeconfig.cache
+E:\C#\פרויקט התנך\TanachProject\TanachWebApi\obj\Debug\net7.0\ref\TanachWebApi.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\appsettings.json
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\TanachWebApi.exe
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\TanachWebApi.deps.json
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\TanachWebApi.runtimeconfig.json
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\TanachWebApi.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\TanachWebApi.pdb
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\BLL.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\DAL.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\Entities.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\BLL.pdb
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\Entities.pdb
+E:\C#\פרויקט התנך\server side\TanachWebApi\bin\Debug\net7.0\DAL.pdb
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.csproj.AssemblyReference.cache
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.AssemblyInfoInputs.cache
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.AssemblyInfo.cs
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.csproj.CoreCompileInputs.cache
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.TanachWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TanachWebApi.props
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TanachWebApi.props
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TanachWebApi.props
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\scopedcss\bundle\TanachWebApi.styles.css
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.csproj.CopyComplete
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\refint\TanachWebApi.dll
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.pdb
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\TanachWebApi.genruntimeconfig.cache
+E:\C#\פרויקט התנך\server side\TanachWebApi\obj\Debug\net7.0\ref\TanachWebApi.dll

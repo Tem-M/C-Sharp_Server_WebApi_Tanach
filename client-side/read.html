@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+      <script src="locationFunc.js"></script>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="styles.css" rel="stylesheet">
+
+      <script>
+        bookText = ""
+        chapter = 0
+        function loadBook(e) {
+          chapter = 0
+          var x = e.selectedIndex
+          var emptyOption = document.createElement('option')
+          emptyOption.text = 'פסוק';
+          emptyOption.selected = true;
+          emptyOption.disabled = true;
+          document.getElementById("verse").replaceChildren(emptyOption)
+          document.getElementById("chapter").selectedIndex=0
+          document.getElementById("verse").selectedIndex=0
+          console.log(x)
+          axios.get(`https://localhost:7040/Read/${x}`)
+          .then(response => {
+            var fragment = document.createDocumentFragment()
+            bookText = response.data;
+            console.log(bookText.length)
+            for(var i in bookText) {
+              var newOption = document.createElement("option");
+              newOption.text = convertNumberToLetters(i);
+              newOption.value = i;
+              fragment.appendChild(newOption)
+            }
+            document.getElementById("chapter").appendChild(fragment);
+            var bookpanel = ""
+            for(var i in bookText) {
+              bookpanel += `<h3>פרק ${convertNumberToLetters(i)}</h3>`
+              for(var x in bookText[i]) {
+                bookpanel +=`<p>${convertNumberToLetters(x)}: "${bookText[i][x]}"</p>`
+              }
+            }
+            document.getElementById("bookpanel").innerHTML = bookpanel;
+          })
+          .catch(error => {
+            document.getElementById("bookpanel").innerHTML = "אופס, משהו קרה.";
+          })
+        }
+      
+        function loadChapter(e) {
+          document.getElementById("verse").selectedIndex=0
+          var g = e.selectedIndex;
+          chapter = g
+          var bookpanel = ""
+          bookpanel += `<h3>פרק ${convertNumberToLetters(g)}</h3>`
+          for(i in bookText[g]) {
+            bookpanel +=`<p>${convertNumberToLetters(i)}: "${bookText[g][i]}"</p>`
+          }
+          document.getElementById("bookpanel").innerHTML = bookpanel;
+          var fragment = document.createDocumentFragment()
+          for(var i in bookText[g]) {
+              var newOption = document.createElement("option");
+              newOption.text = convertNumberToLetters(i);
+              newOption.value = i;
+              fragment.appendChild(newOption)
+            }
+          document.getElementById("verse").appendChild(fragment);
+        }
+
+        function loadVerse(e) {
+          var z = e.selectedIndex;
+          document.getElementById("bookpanel").innerHTML = `<h4>פרק ${convertNumberToLetters(chapter)}</h4>`
+          document.getElementById("bookpanel").innerHTML += `<p>${convertNumberToLetters(z)}: "${bookText[chapter][z]}"</p>`
+        }
+      
+      </script>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="navbar-nav" id="navbarText">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="home.html">חיפוש / בית</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="history.html">היסטוריה</a>
+                  </li>
+                  <li class="nav-item active">
+                    <a class="nav-link" href="" disabled>קריאה</a>
+                  </li>
+                </ul>
+              </div>
+        </nav>
+        <br>
+        <div>
+          <select id="book" onchange="loadBook(this)">
+            <option selected disabled>ספר</option>
+            <option>בראשית</option>
+            <option>שמות</option>
+            <option>ויקרא</option>
+            <option>במדבר</option>
+            <option>דברים</option>
+            <option>יהושע</option>
+            <option>שופטים</option>
+            <option>'שמואל א</option>
+            <option>'שמואל ב</option>
+            <option>'מלכים א</option>
+            <option>'מלכים ב</option> 
+            <option>ישעיהו</option>
+            <option>ירמיהו</option>
+            <option>יחזקאל</option>
+            <option>הושע</option>
+            <option>יואל</option>
+            <option>עמוס</option>
+            <option>עובדיה</option>
+            <option>יונה</option>
+            <option>מיכה</option>
+            <option>נחום</option>
+            <option>חבקוק</option>
+            <option>צפניה</option>
+            <option>חגי</option>
+            <option>זכריה</option>
+            <option>מלאכי</option>
+            <option>תהילים</option>
+            <option>משלי</option>
+            <option>איוב</option>
+            <option>שיר השירים</option>
+            <option>רות</option>
+            <option>איכה</option>
+            <option>קהלת</option>
+            <option>אסתר</option>
+            <option>דניאל</option>
+            <option>עזרא</option>
+            <option>נחמיה</option>
+            <option>'דברי הימים א</option>
+            <option>'דברי הימים ב</option>
+          </select>
+          <select id="chapter" onchange="loadChapter(this)">
+            <option selected disabled>פרק</option>
+          </select>
+          <select id="verse" onchange="loadVerse(this)">
+            <option selected disabled>פסוק</option>
+          </select>
+          <div id="bookpanel"></div>
+        </div>
+    </body>
+</html>

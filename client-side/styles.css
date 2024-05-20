@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+    margin:auto;
+    direction: rtl;
+}
+
+body {
+    text-align: center; /* Center align the content */
+  }
+  .container {
+    width: 50%; /* Set width to 50% */
+    margin: 0 auto; /* Center align the container */
+  }
+  nav {
+    width: 100%; /* Full width for the navigation */
+    background-color: #333; /* Example background color */
+    color: white; /* Example text color */
+  }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vmcyiX7ENbXNk1VSIBWZRt7BSD//mvnNLb1ADHEVubwTnsFjgD7pzpBa0fGENj8/nkvbfCzYZCyQ14hD4O5O5g==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\פרויקט התנך\\server side\\GUI\\GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\temim\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

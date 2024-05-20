@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL.csproj", "{29B5484B-6FEA-4466-8507-E5668E15F9F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "..\BLL\BLL.csproj", "{8FC3E42C-49B2-489C-8761-5B686E450909}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUI", "..\GUI\GUI.csproj", "{C8359A80-430E-4DB8-81B2-F22F8427BFAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA4C97A6-12F0-49D5-858D-F787E75092B1}"
+	ProjectSection(SolutionItems) = preProject
+		..\history.json = ..\history.json
+		..\איוב.json = ..\איוב.json
+		..\איכה.json = ..\איכה.json
+		..\אסתר.json = ..\אסתר.json
+		..\במדבר.json = ..\במדבר.json
+		..\בראשית.json = ..\בראשית.json
+		..\דברי הימים א.json = ..\דברי הימים א.json
+		..\דברי הימים ב.json = ..\דברי הימים ב.json
+		..\דברים.json = ..\דברים.json
+		..\דניאל.json = ..\דניאל.json
+		..\הושע.json = ..\הושע.json
+		..\ויקרא.json = ..\ויקרא.json
+		..\זכריה.json = ..\זכריה.json
+		..\חבקוק.json = ..\חבקוק.json
+		..\חגי.json = ..\חגי.json
+		..\יהושע.json = ..\יהושע.json
+		..\יואל.json = ..\יואל.json
+		..\יונה.json = ..\יונה.json
+		..\יחזקאל.json = ..\יחזקאל.json
+		..\ירמיהו.json = ..\ירמיהו.json
+		..\ישעיהו.json = ..\ישעיהו.json
+		..\מיכה.json = ..\מיכה.json
+		..\מלאכי.json = ..\מלאכי.json
+		..\מלכים א.json = ..\מלכים א.json
+		..\מלכים ב.json = ..\מלכים ב.json
+		..\משלי.json = ..\משלי.json
+		..\נחום.json = ..\נחום.json
+		..\נחמיה.json = ..\נחמיה.json
+		..\עובדיה.json = ..\עובדיה.json
+		..\עזרא.json = ..\עזרא.json
+		..\עמוס.json = ..\עמוס.json
+		..\צפניה.json = ..\צפניה.json
+		..\קהלת.json = ..\קהלת.json
+		..\רות.json = ..\רות.json
+		..\שופטים.json = ..\שופטים.json
+		..\שיר השירים.json = ..\שיר השירים.json
+		..\שמואל א.json = ..\שמואל א.json
+		..\שמואל ב.json = ..\שמואל ב.json
+		..\שמות.json = ..\שמות.json
+		..\תהילים.json = ..\תהילים.json
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "..\Entities\Entities.csproj", "{A83EE94B-A6BF-4BA2-BC95-088A5360E48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanachWebApi", "..\TanachWebApi\TanachWebApi.csproj", "{92DF9A1D-4BD7-4E24-BE64-2988385DEDB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29B5484B-6FEA-4466-8507-E5668E15F9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B5484B-6FEA-4466-8507-E5668E15F9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B5484B-6FEA-4466-8507-E5668E15F9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B5484B-6FEA-4466-8507-E5668E15F9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FC3E42C-49B2-489C-8761-5B686E450909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC3E42C-49B2-489C-8761-5B686E450909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC3E42C-49B2-489C-8761-5B686E450909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC3E42C-49B2-489C-8761-5B686E450909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8359A80-430E-4DB8-81B2-F22F8427BFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8359A80-430E-4DB8-81B2-F22F8427BFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8359A80-430E-4DB8-81B2-F22F8427BFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8359A80-430E-4DB8-81B2-F22F8427BFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83EE94B-A6BF-4BA2-BC95-088A5360E48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83EE94B-A6BF-4BA2-BC95-088A5360E48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83EE94B-A6BF-4BA2-BC95-088A5360E48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83EE94B-A6BF-4BA2-BC95-088A5360E48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DF9A1D-4BD7-4E24-BE64-2988385DEDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DF9A1D-4BD7-4E24-BE64-2988385DEDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DF9A1D-4BD7-4E24-BE64-2988385DEDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DF9A1D-4BD7-4E24-BE64-2988385DEDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F2D15E-8096-47C4-AABE-8321A78C9B23}
+	EndGlobalSection
+EndGlobal

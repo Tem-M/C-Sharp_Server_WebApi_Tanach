@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2aWIfkxh6ZDEyea1WENCu8TjzZgkY58nNVylMV5u+cE=",
+  "Source": "TanachWebApi",
+  "BasePath": "_content/TanachWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

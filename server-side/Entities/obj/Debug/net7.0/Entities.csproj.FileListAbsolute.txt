@@ -1,0 +1,45 @@
+D:\C#\פרויקט התנך\TanachProject\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\C#\פרויקט התנך\TanachProject\Entities\bin\Debug\net7.0\Entities.dll
+D:\C#\פרויקט התנך\TanachProject\Entities\bin\Debug\net7.0\Entities.pdb
+D:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.dll
+D:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.pdb
+D:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\ref\Entities.dll
+E:\C#\פרויקט התנך\TanachProject\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\C#\פרויקט התנך\TanachProject\Entities\bin\Debug\net7.0\Entities.dll
+E:\C#\פרויקט התנך\TanachProject\Entities\bin\Debug\net7.0\Entities.pdb
+E:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.dll
+E:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\Entities.pdb
+E:\C#\פרויקט התנך\TanachProject\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\HAND\Desktop\TanachProject\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\HAND\Desktop\TanachProject\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\HAND\Desktop\TanachProject\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\HAND\Desktop\TanachProject\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Users\HAND\Desktop\TanachProject\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAND\Desktop\TanachProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\HAND\Desktop\TanachProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\HAND\Desktop\TanachProject\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\HAND\Desktop\TanachProject\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\HAND\Desktop\TanachProject\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\HAND\Desktop\TanachProject\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\HAND\Desktop\TanachProject\Entities\obj\Debug\net7.0\ref\Entities.dll
+E:\C#\פרויקט התנך\server side\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\C#\פרויקט התנך\server side\Entities\bin\Debug\net7.0\Entities.dll
+E:\C#\פרויקט התנך\server side\Entities\bin\Debug\net7.0\Entities.pdb
+E:\C#\פרויקט התנך\server side\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\פרויקט התנך\server side\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\C#\פרויקט התנך\server side\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\C#\פרויקט התנך\server side\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\C#\פרויקט התנך\server side\Entities\obj\Debug\net7.0\Entities.dll
+E:\C#\פרויקט התנך\server side\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\C#\פרויקט התנך\server side\Entities\obj\Debug\net7.0\Entities.pdb
+E:\C#\פרויקט התנך\server side\Entities\obj\Debug\net7.0\ref\Entities.dll

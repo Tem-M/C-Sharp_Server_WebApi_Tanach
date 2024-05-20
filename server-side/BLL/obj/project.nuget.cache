@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8v+umlN/xviWq4vBqSlRfmy0U6O1ebZi22qTeQYoHLAShaEjXZ8THOQSkAiwwgcEvrwbxZjECne10jl1ynVbtQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\פרויקט התנך\\server side\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\temim\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

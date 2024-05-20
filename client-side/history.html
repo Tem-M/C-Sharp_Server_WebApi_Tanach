@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+      <script src="locationFunc.js"></script>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="styles.css" rel="stylesheet">
+
+      <script>
+        globalHistory = []
+        window.onload = function() {
+            axios.get('https://localhost:7040/History')
+            .then(response => 
+              {
+                if(response.data) {
+                  globalHistory = response.data
+                  var htmlContent = "<table class='table'><tr><td>מה שחיפשתם</td><td>מתי שחיפשתם</td><td>התוצאות שקיבלתם</td>";
+
+                  // Iterate over the response data and build HTML rows
+                  for (var i = 0; i < response.data.length; i++) {
+                      var x = response.data[i];
+                      htmlContent += `<tr id='${i}'>
+                          <td>${x.word}</td>
+                          <td>${x.time.split('T')[1].substring(0,5) + " " + x.time.split('T')[0]}</td>
+                          <td><button onclick = 'details(${i})' type = 'button' class= 'btn btn-link'>צפייה</button></td>
+                      </tr>`;
+                  }
+
+                  // Close the <table> tag and set the HTML content of the results element
+                  htmlContent += "</table>";
+                  document.getElementById("history").innerHTML = `<button type="button" class="btn btn-warning" onclick="deleteHistory();">מחיקה</button>` + htmlContent
+                }
+                else {
+                  document.getElementById("history").innerHTML = "<h1 style='text-align:center'>נראה שלא חיפשתם כלום עדיין</h1>"
+                }
+              }
+            )
+            .catch(
+                document.getElementById("history").innerHTML = "אופס, משהו קרה."
+            )
+        };
+      
+        function details(num) {
+          document.getElementById("details").innerHTML=""
+          var htmlContent = "<table class='table'>";
+
+          // Iterate over the response data and build HTML rows
+          for (var i = 0; i < globalHistory[num].results.length; i++) {
+              var x = globalHistory[num].results[i];
+              htmlContent += `<tr>
+                  <td>${section(x.section)}</td>
+                  <td>${book(x.book)}</td>
+                  <td>${convertNumberToLetters(x.chapter)}</td>
+                  <td>${convertNumberToLetters(x.verse)}</td>
+                  <td>"${x.text}"</td>
+              </tr>`;
+          }
+
+          // Close the <table> tag and set the HTML content of the results element
+          htmlContent += "</table>";
+          document.getElementById("details").innerHTML=`<h6>${globalHistory[num].results.length} תוצאות</h6>` + htmlContent
+        }
+      
+        function deleteHistory() {
+          if (window.confirm('הפעולה לא ניתנת לביטול, אל תבואו אלינו בתלונות אחר כך')) {
+              // User clicked "OK"
+              axios.delete('https://localhost:7040/History')
+              .then(response => {
+                  alert("ההסטוריה נמחקה בהצלחה")
+                  document.getElementById("history").innerHTML = "<h1>השנייה מחקתם את ההסטוריה, מה אתם רוצים?</h1>"
+                  document.getElementById("details").innerHTML = ""
+                })
+              .catch(error=> {
+                alert("נצלתם הפעם, אבל פעם הבאה אל תסמכו על המזל!")
+              }
+              )
+          } else {
+              // User clicked "Cancel" or closed the dialog
+              alert("החלטה חכמה בסך הכל")
+          }
+        }
+      
+      </script>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="navbar-nav" id="navbarText">
+                <ul class="navbar-nav mr-auto">
+                  <li class="nav-item active">
+                    <a class="nav-link" href="home.html">חיפוש / בית</a>
+                  </li>
+                  <li class="nav-item active">
+                    <a class="nav-link" href="" disabled>היסטוריה</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="read.html">קריאה</a>
+                  </li>
+                </ul>
+              </div>
+        </nav>
+        <br>
+        <div style="margin-top:2px">
+          <div id="history" style="float:right; margin:auto"></div>
+          <div id="details" style="float:right; width:67%; margin:auto"></div>
+        </div>
+        
+        
+    </body>
+</html>

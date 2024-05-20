@@ -1,0 +1,106 @@
+C:\Users\temim\source\repos\GUI\bin\Debug\net7.0-windows\GUI.exe
+C:\Users\temim\source\repos\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+C:\Users\temim\source\repos\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+C:\Users\temim\source\repos\GUI\bin\Debug\net7.0-windows\GUI.dll
+C:\Users\temim\source\repos\GUI\bin\Debug\net7.0-windows\GUI.pdb
+C:\Users\temim\source\repos\GUI\bin\Debug\net7.0-windows\BLL.dll
+C:\Users\temim\source\repos\GUI\bin\Debug\net7.0-windows\BLL.pdb
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.Form1.resources
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.csproj.CopyComplete
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.dll
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.pdb
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+C:\Users\temim\source\repos\GUI\obj\Debug\net7.0-windows\ref\GUI.dll
+C:\Users\temim\source\repos\GUI\bin\Debug\net7.0-windows\DAL.dll
+C:\Users\temim\source\repos\GUI\bin\Debug\net7.0-windows\DAL.pdb
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.exe
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.dll
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.pdb
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\BLL.dll
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\DAL.dll
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\BLL.pdb
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\DAL.pdb
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.AssemblyReference.cache
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Form1.resources
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.GenerateResource.cache
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.CopyComplete
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.dll
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.pdb
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\ref\GUI.dll
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\Entities.dll
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\Entities.pdb
+D:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Form2.resources
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Home.resources
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.dll
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.pdb
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.dll
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.pdb
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Form1.resources
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Form2.resources
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Home.resources
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.exe
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.dll
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.pdb
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\BLL.dll
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\DAL.dll
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\Entities.dll
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\BLL.pdb
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\Entities.pdb
+C:\Users\HAND\Desktop\TanachProject\GUI\bin\Debug\net7.0-windows\DAL.pdb
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.CopyComplete
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\ref\GUI.dll
+C:\Users\HAND\Desktop\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Form3.resources
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.exe
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.dll
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\GUI.pdb
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\BLL.dll
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\DAL.dll
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\Entities.dll
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\BLL.pdb
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\Entities.pdb
+E:\C#\פרויקט התנך\TanachProject\GUI\bin\Debug\net7.0-windows\DAL.pdb
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.AssemblyReference.cache
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Form1.resources
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Form2.resources
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Form3.resources
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Home.resources
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.GenerateResource.cache
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.csproj.CopyComplete
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+E:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\ref\GUI.dll
+D:\C#\פרויקט התנך\TanachProject\GUI\obj\Debug\net7.0-windows\GUI.Form3.resources

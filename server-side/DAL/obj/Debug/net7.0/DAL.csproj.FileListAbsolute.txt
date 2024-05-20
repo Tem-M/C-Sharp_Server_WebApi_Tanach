@@ -1,0 +1,59 @@
+C:\Users\temim\source\repos\ClassLibrary1\bin\Debug\net7.0\DAL.deps.json
+C:\Users\temim\source\repos\ClassLibrary1\bin\Debug\net7.0\DAL.dll
+C:\Users\temim\source\repos\ClassLibrary1\bin\Debug\net7.0\DAL.pdb
+C:\Users\temim\source\repos\ClassLibrary1\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temim\source\repos\ClassLibrary1\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\temim\source\repos\ClassLibrary1\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\temim\source\repos\ClassLibrary1\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\temim\source\repos\ClassLibrary1\obj\Debug\net7.0\DAL.dll
+C:\Users\temim\source\repos\ClassLibrary1\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\temim\source\repos\ClassLibrary1\obj\Debug\net7.0\DAL.pdb
+C:\Users\temim\source\repos\ClassLibrary1\obj\Debug\net7.0\ref\DAL.dll
+D:\C#\פרויקט התנך\TanachProject\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\C#\פרויקט התנך\TanachProject\DAL\bin\Debug\net7.0\DAL.dll
+D:\C#\פרויקט התנך\TanachProject\DAL\bin\Debug\net7.0\DAL.pdb
+D:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.dll
+D:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.pdb
+D:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.dll
+E:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\HAND\Desktop\TanachProject\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\HAND\Desktop\TanachProject\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\HAND\Desktop\TanachProject\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\HAND\Desktop\TanachProject\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\HAND\Desktop\TanachProject\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\HAND\Desktop\TanachProject\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\HAND\Desktop\TanachProject\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\HAND\Desktop\TanachProject\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAND\Desktop\TanachProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\HAND\Desktop\TanachProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\HAND\Desktop\TanachProject\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HAND\Desktop\TanachProject\DAL\obj\Debug\net7.0\ref\DAL.dll
+E:\C#\פרויקט התנך\TanachProject\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\C#\פרויקט התנך\TanachProject\DAL\bin\Debug\net7.0\DAL.dll
+E:\C#\פרויקט התנך\TanachProject\DAL\bin\Debug\net7.0\DAL.pdb
+E:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\C#\פרויקט התנך\TanachProject\DAL\obj\Debug\net7.0\ref\DAL.dll
+E:\C#\פרויקט התנך\server side\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\C#\פרויקט התנך\server side\DAL\bin\Debug\net7.0\DAL.dll
+E:\C#\פרויקט התנך\server side\DAL\bin\Debug\net7.0\DAL.pdb
+E:\C#\פרויקט התנך\server side\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\C#\פרויקט התנך\server side\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\פרויקט התנך\server side\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\C#\פרויקט התנך\server side\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\C#\פרויקט התנך\server side\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\C#\פרויקט התנך\server side\DAL\obj\Debug\net7.0\DAL.dll
+E:\C#\פרויקט התנך\server side\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\C#\פרויקט התנך\server side\DAL\obj\Debug\net7.0\DAL.pdb
+E:\C#\פרויקט התנך\server side\DAL\obj\Debug\net7.0\ref\DAL.dll

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+      <script src="locationFunc.js"></script>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="styles.css" rel="stylesheet">
+
+      <script>
+        globalRes = []
+        function search() {
+          document.getElementById("results").innerHTML = ""
+          var word = document.getElementById("search-value").value
+          var books = $('#search-info input[type="checkbox"]:checked');
+          var checkedIds = books.map(function() {
+            return parseInt(this.id) -1;
+          }).get();
+
+
+          if(checkedIds.indexOf(0) !== -1) {
+            checkedIds = []
+            for(var x = 1; x<40; x++) {
+              checkedIds.push(x);
+            }
+          }
+
+          if(!word) {
+            alert("חסר ביטוי לחיפוש")
+            return;
+          }
+          if(checkedIds.length == 0) {
+            alert("איפה בדיוק אנחנו אמורים לחפש?")
+            return;
+          }
+
+          
+          document.getElementById("results").display="block"
+          
+          axios.post(`https://localhost:7040/Search/Word/${word}`, checkedIds)
+            .then(response => {
+                // Handle successful response
+                // Initialize the HTML content string with the opening <table> tag
+              var htmlContent = "<table class='table'>";
+
+              // Iterate over the response data and build HTML rows
+              for (var i = 0; i < response.data.length; i++) {
+                  var x = response.data[i];
+                  htmlContent += `<tr>
+                      <td>${section(x.section)}</td>
+                      <td>${book(x.book)}</td>
+                      <td>${convertNumberToLetters(x.chapter)}</td>
+                      <td>${convertNumberToLetters(x.verse)}</td>
+                      <td>"${x.text}"</td>
+                  </tr>`;
+              }
+
+              // Close the <table> tag and set the HTML content of the results element
+              htmlContent += "</table>";
+              document.getElementById("results").innerHTML = `<h6>${response.data.length} תוצאות</h6>` + htmlContent;
+
+              //document.getElementById("results").innerHTML=JSON.stringify(response.data);
+                document.getElementById("results").innerHTML += 
+                `<button type='button' 
+                class='btn btn-light' 
+                onclick="save('${word}');"
+                >שמירה</button><br>`
+                globalRes=response.data;
+            })
+            .catch(error => {
+              // Handle error
+              document.getElementById("results").innerHTML=error.message;
+            });
+
+        }
+      
+        function save(word) {
+          axios.post(`https://localhost:7040/Search/Save/${word}`, globalRes)
+          .then((response) => {
+              document.getElementById("results").innerHTML="";
+              globalRes = []
+              alert("החיפוש נשמר בהצלחה, תוכלו לראות אותו בכרטיסיית ההסטוריה")
+            }
+          )
+          .catch((error) => {
+            alert("מצטערים, לא הצלחנו לשמור. ולא, נסיון חוזר כנראה לא ישנה את המצב...")
+          }
+           
+          )
+        }
+      </script>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="navbar-nav" id="navbarText">
+                <ul class="navbar-nav mr-auto">
+                  <li class="nav-item active">
+                    <a class="nav-link" href="" disabled>חיפוש / בית</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="history.html">היסטוריה</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="read.html">קריאה</a>
+                  </li>
+                </ul>
+              </div>
+        </nav>
+        <br>
+        <div class="container">
+          <div id="results" visibility="hidden" display="none">
+          </div>
+          <br>
+          <form id="search-info" class="form-control">
+            <span><h6>מה לחפש?</h6></span>
+            <input type="text" id="search-value" class="form-control" placeholder="">
+            <span><h6>איפה לחפש?</h6></span>
+            <input type="checkbox" name="books" id="1" value="הכל">
+            <label for="1">הכל</label><br>
+  
+            <div id="accordion">
+              
+              <div class="card">
+                <div  id="headingOne">
+                  <h5 class="mb-0">
+                    <button class="btn" data-bs-toggle="collapse" type="button" data-bs-target="#collapseBooks" aria-expanded="false" aria-controls="collapseBooks">
+                      ספר ספציפי?
+                    </button>
+                  </h5>
+                </div>
+              </div>
+              <div id="collapseBooks"  class="collapse collapsed" aria-labeledby="headingOne" aria-expanded="false" data-parent="#accordion">
+                <div class="card-body">
+                  <input type="checkbox" name="books" id="2" value="בראשית">
+                  <label for="2">בראשית</label><br>
+                  <input type="checkbox" name="books" id="3" value="שמות">
+                  <label for="3">שמות</label><br>
+                  <input type="checkbox" name="books" id="4" value="ויקרא">
+                  <label for="4">ויקרא</label><br>
+                  <input type="checkbox" name="books" id="5" value="במדבר">
+                  <label for="5">במדבר</label><br>
+                  <input type="checkbox" name="books" id="6" value="דברים">
+                  <label for="6">דברים</label><br>
+                  <input type="checkbox" name="books" id="7" value="יהושע">
+                  <label for="7">יהושע</label><br>
+                  <input type="checkbox" name="books" id="8" value="שופטים">
+                  <label for="8">שופטים</label><br>
+                  <input type="checkbox" name="books" id="9" value="שמואל א">
+                  <label for="9">שמואל א'</label><br>
+                  <input type="checkbox" name="books" id="10" value="שמואל ב">
+                  <label for="10">שמואל ב'</label><br>
+                  <input type="checkbox" name="books" id="11" value="מלכים א">
+                  <label for="11">מלכים א'</label><br>
+                  <input type="checkbox" name="books" id="12" value="מלכים ב">
+                  <label for="12">מלכים ב'</label><br>
+                  <input type="checkbox" name="books" id="13" value="ישעיהו">
+                  <label for="13">ישעיהו</label><br>
+                  <input type="checkbox" name="books" id="14" value="ירמיהו">
+                  <label for="14">ירמיהו</label><br>
+                  <input type="checkbox" name="books" id="15" value="יחזקאל">
+                  <label for="15">יחזקאל</label><br>
+                  <input type="checkbox" name="books" id="16" value="הושע">
+                  <label for="16">הושע</label><br>
+                  <input type="checkbox" name="books" id="17" value="יואל">
+                  <label for="17">יואל</label><br>
+                  <input type="checkbox" name="books" id="18" value="עמוס">
+                  <label for="18">עמוס</label><br>
+                  <input type="checkbox" name="books" id="19" value="עובדיה">
+                  <label for="18">עובדיה</label><br>
+                  <input type="checkbox" name="books" id="20" value="יונה">
+                  <label for="20">יונה</label><br>
+                  <input type="checkbox" name="books" id="21" value="מיכה">
+                  <label for="21">מיכה</label><br>
+                  <input type="checkbox" name="books" id="22" value="נחום">
+                  <label for="22">נחום</label><br>
+                  <input type="checkbox" name="books" id="23" value="חבקוק">
+                  <label for="23">חבקוק</label><br>
+                  <input type="checkbox" name="books" id="24" value="צפניה">
+                  <label for="24">צפניה</label><br>
+                  <input type="checkbox" name="books" id="25" value="חגי">
+                  <label for="25">חגי</label><br>
+                  <input type="checkbox" name="books" id="26" value="זכריה">
+                  <label for="26">זכריה</label><br>
+                  <input type="checkbox" name="books" id="27" value="מלאכי">
+                  <label for="27">מלאכי</label><br>
+                  <input type="checkbox" name="books" id="28" value="תהילים">
+                  <label for="28">תהילים</label><br>
+                  <input type="checkbox" name="books" id="29" value="משלי">
+                  <label for="29">משלי</label><br>
+                  <input type="checkbox" name="books" id="30" value="איוב">
+                  <label for="30">איוב</label><br>
+                  <input type="checkbox" name="books" id="31" value="שיר השירים">
+                  <label for="31">שיר השירים</label><br>
+                  <input type="checkbox" name="books" id="32" value="רות">
+                  <label for="32">רות</label><br>
+                  <input type="checkbox" name="books" id="33" value="איכה">
+                  <label for="33">איכה</label><br>
+                  <input type="checkbox" name="books" id="34" value="קהלת">
+                  <label for="34">קהלת</label><br>
+                  <input type="checkbox" name="books" id="35" value="אסתר">
+                  <label for="35">אסתר</label><br>
+                  <input type="checkbox" name="books" id="36" value="דניאל">
+                  <label for="36">דניאל</label><br>
+                  <input type="checkbox" name="books" id="37" value="עזרא">
+                  <label for="37">עזרא</label><br>
+                  <input type="checkbox" name="books" id="38" value="נחמיה">
+                  <label for="38">נחמיה</label><br>
+                  <input type="checkbox" name="books" id="39" value="דברי הימים א">
+                  <label for="39">דברי הימים א'</label><br>
+                  <input type="checkbox" name="books" id="40" value="דברי הימים ב">
+                  <label for="40">דברי הימים ב'</label><br>
+                </div>
+              </div>
+            </div> 
+            <br>
+            <button class="btn btn-light" type="submit" onclick="event.preventDefault(); search();">חיפוש</button>
+          </form>
+        </div>
+        
+
+          
+    </body>
+</html>

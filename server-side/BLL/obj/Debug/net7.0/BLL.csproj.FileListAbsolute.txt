@@ -1,0 +1,83 @@
+C:\Users\temim\source\repos\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\temim\source\repos\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\temim\source\repos\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\temim\source\repos\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temim\source\repos\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\temim\source\repos\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\temim\source\repos\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\temim\source\repos\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\temim\source\repos\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\temim\source\repos\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\temim\source\repos\BLL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\temim\source\repos\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\temim\source\repos\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\temim\source\repos\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\temim\source\repos\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\BLL.dll
+D:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\BLL.pdb
+D:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\DAL.dll
+D:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\DAL.pdb
+D:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.dll
+D:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.pdb
+D:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\ref\BLL.dll
+D:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\Entities.dll
+D:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\Entities.pdb
+E:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.dll
+E:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\refint\BLL.dll
+E:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\HAND\Desktop\TanachProject\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\HAND\Desktop\TanachProject\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\HAND\Desktop\TanachProject\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\HAND\Desktop\TanachProject\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\HAND\Desktop\TanachProject\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAND\Desktop\TanachProject\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\HAND\Desktop\TanachProject\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\HAND\Desktop\TanachProject\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HAND\Desktop\TanachProject\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\HAND\Desktop\TanachProject\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\HAND\Desktop\TanachProject\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\HAND\Desktop\TanachProject\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\HAND\Desktop\TanachProject\BLL\bin\Debug\net7.0\Entities.dll
+C:\Users\HAND\Desktop\TanachProject\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\HAND\Desktop\TanachProject\BLL\bin\Debug\net7.0\Entities.pdb
+C:\Users\HAND\Desktop\TanachProject\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\HAND\Desktop\TanachProject\BLL\obj\Debug\net7.0\ref\BLL.dll
+E:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\BLL.deps.json
+E:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\BLL.dll
+E:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\BLL.pdb
+E:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\DAL.dll
+E:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\Entities.dll
+E:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\DAL.pdb
+E:\C#\פרויקט התנך\TanachProject\BLL\bin\Debug\net7.0\Entities.pdb
+E:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+E:\C#\פרויקט התנך\TanachProject\BLL\obj\Debug\net7.0\ref\BLL.dll
+E:\C#\פרויקט התנך\server side\BLL\bin\Debug\net7.0\BLL.deps.json
+E:\C#\פרויקט התנך\server side\BLL\bin\Debug\net7.0\BLL.dll
+E:\C#\פרויקט התנך\server side\BLL\bin\Debug\net7.0\BLL.pdb
+E:\C#\פרויקט התנך\server side\BLL\bin\Debug\net7.0\DAL.dll
+E:\C#\פרויקט התנך\server side\BLL\bin\Debug\net7.0\Entities.dll
+E:\C#\פרויקט התנך\server side\BLL\bin\Debug\net7.0\DAL.pdb
+E:\C#\פרויקט התנך\server side\BLL\bin\Debug\net7.0\Entities.pdb
+E:\C#\פרויקט התנך\server side\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\C#\פרויקט התנך\server side\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\פרויקט התנך\server side\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\C#\פרויקט התנך\server side\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\C#\פרויקט התנך\server side\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\C#\פרויקט התנך\server side\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+E:\C#\פרויקט התנך\server side\BLL\obj\Debug\net7.0\BLL.dll
+E:\C#\פרויקט התנך\server side\BLL\obj\Debug\net7.0\refint\BLL.dll
+E:\C#\פרויקט התנך\server side\BLL\obj\Debug\net7.0\BLL.pdb
+E:\C#\פרויקט התנך\server side\BLL\obj\Debug\net7.0\ref\BLL.dll
